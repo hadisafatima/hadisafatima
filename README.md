@@ -1,6 +1,6 @@
 [![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)
 
-# *Welcome to my GitHUB Profile*
+# **Welcome to my** *GitHUB Profile*
 
 - 👽 It's Hadisa Fatima Syed
 
