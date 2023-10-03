@@ -12,7 +12,11 @@
   
 - 📫 you can reach me via -> hadisasyed7@gmail.com
 
-[![Hadisa Fatima syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# **My** *Projects*
+
+- [Project 1](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): This is a static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
+- [Project 2](https://hadisafatima.github.io/flipkart-website/): This is a half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS. 
+
 
 
 <!---
