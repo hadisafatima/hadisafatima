@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on UI development opportunities 
 - 📫 How to reach me hadisasyed7@gmail.com
 
-[![Hadisa Fatima syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hadisa Fatima syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
