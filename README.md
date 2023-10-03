@@ -1,10 +1,14 @@
 [![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)
 
-- 👋 Hi, I’m @hadisafatima 
-- 👀 I’m interested in Front-end development 
-- 🌱 I’m currently learning Java and JS 
-- 💞️ I’m looking to collaborate on UI development opportunities 
-- 📫 How to reach me hadisasyed7@gmail.com
+#It's Hadisa Fatima Syed
+
+- 👀 I’m interested in Front-end development
+  
+- 🌱 I’m currently learning Java and JS
+  
+- 💞️ I’m looking to collaborate on UI development opportunities
+  
+- 📫 you can reach me via -> hadisasyed7@gmail.com
 
 [![Hadisa Fatima syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
