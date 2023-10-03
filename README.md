@@ -14,8 +14,8 @@
 
 # **My** *Projects*
 
-- [Project 1](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): This is a static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
-- [Project 2](https://hadisafatima.github.io/flipkart-website/): This is a half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS. 
+- [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): This is a static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
+- [(Static) Clone of flipkart: ](https://hadisafatima.github.io/flipkart-website/): This is a half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS. 
 
 
 
