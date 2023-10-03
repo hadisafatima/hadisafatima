@@ -1,4 +1,4 @@
-[![Header](https://github.com/hadisafatima/repository-name/raw/main/path-to-your-header-image.jpg)](https://your-website.com/)
+[![Header](https://github.com/hadisafatima/header-image/raw/main/https://github.com/hadisafatima/header-image/blob/main/header-image.jpg?raw=true)](https://your-website.com/)
 
 - 👋 Hi, I’m @hadisafatima 
 - 👀 I’m interested in Front-end development 
