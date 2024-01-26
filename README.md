@@ -12,13 +12,18 @@
   
 - 📫 you can reach me via -> hadisasyed7@gmail.com
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima)](https://git.io/streak-stats)
 
 # **My** *Projects*
 
 - [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): An static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
 - [(Static) Clone of flipkart: ](https://hadisafatima.github.io/flipkart-website/): A half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS.
 - [Simple Memory Game site: ](https://hadisafatima.github.io/Simple-Memory-Game-web/) : A simple Memory Game site.
+
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
+- Email: hadisaasyed@gmail.com
 
 [![Hadisa Fatima Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
