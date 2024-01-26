@@ -19,8 +19,10 @@
 - [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): An static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
 - [(Static) Clone of flipkart: ](https://hadisafatima.github.io/flipkart-website/): A half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS.
 - [Simple Memory Game site: ](https://hadisafatima.github.io/Simple-Memory-Game-web/) : A simple Memory Game site.
+- [TwitterX_Cloned_Web: ](https://hadisafatima.github.io/TwitterX_Clone/) : Client Side Cloned TwitterX website.
 
-## Connect with Me
+  
+## **Connect with** *Me*
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
 - Email: hadisaasyed@gmail.com
