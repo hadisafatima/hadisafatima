@@ -12,6 +12,8 @@
   
 - 📫 you can reach me via -> hadisasyed7@gmail.com
 
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima)](https://git.io/streak-stats)
+
 # **My** *Projects*
 
 - [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): An static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
@@ -22,7 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima)](https://git.io/streak-stats)
 <!---
 hadisafatima/hadisafatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
