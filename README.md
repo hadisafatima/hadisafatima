@@ -24,7 +24,7 @@
   
 ## **Connect with** *Me*
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
+- LinkedIn: [Hadisa Fatima Syed](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
 - Email: hadisaasyed@gmail.com
 
 [![Hadisa Fatima Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
