@@ -1,6 +1,4 @@
-<p align="center">
 [![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)
-</p>
 
 # **Welcome to my** *GitHUB Profile*
 
