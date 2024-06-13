@@ -21,6 +21,19 @@
 - [Simple Memory Game site: ](https://hadisafatima.github.io/Simple-Memory-Game-web/) : A simple Memory Game site.
 - [TwitterX_Cloned_Web: ](https://hadisafatima.github.io/TwitterX_Clone/) : Client Side Cloned TwitterX website.
 
+
+## Technologies I Know
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+  <!-- Add more logos as needed -->
+</p>
+
   
 ## **Connect with** *Me*
 
