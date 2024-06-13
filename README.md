@@ -1,4 +1,6 @@
+<p align="center">
 [![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)
+</p>
 
 # **Welcome to my** *GitHUB Profile*
 
@@ -22,19 +24,6 @@
 - [TwitterX_Cloned_Web: ](https://hadisafatima.github.io/TwitterX_Clone/) : Client Side Cloned TwitterX website.
 
 
-## Technologies I Know
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <!-- Add more logos as needed -->
-</p>
-
-  
 ## **Connect with** *Me*
 
 - LinkedIn: [Hadisa Fatima Syed](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
