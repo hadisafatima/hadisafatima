@@ -20,8 +20,9 @@
 - [(Static) Clone of flipkart: ](https://hadisafatima.github.io/flipkart-website/): A half-cloned Flipkart website, containing just a single page. It was basically created just for sake of the practice of CSS.
 - [Simple Memory Game site: ](https://hadisafatima.github.io/Simple-Memory-Game-web/) : A simple Memory Game site.
 - [TwitterX_Cloned_Web: ](https://hadisafatima.github.io/TwitterX_Clone/) : Client Side Cloned TwitterX website.
-
-
+- [Nove_Genius_Summer_Intership_Task_1: ](https://hadisafatima.github.io/NovaGenius_InternshipTask_1/) : First Internship's first task, and this helped get good grip on bootstrap and SASS.
+- [Nove_Genius_Summer_Intership_Task_2: ](https://hadisafatima.github.io/Nova-Genius-Internship-Task-2/) : First Internship's second task, this helped in learning and applying DOM manipulation, changing styles and applying different transform values on clicks on different buttons.
+  
 ## **Connect with** *Me*
 
 - LinkedIn: [Hadisa Fatima Syed](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
