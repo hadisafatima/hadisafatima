@@ -8,7 +8,7 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
   - Currently 'am on JS route of Front end Dev Journey.
     
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=radical)](https://git.io/streak-stats)
 
 
 # Front End Projects so far
