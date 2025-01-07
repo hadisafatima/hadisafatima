@@ -26,7 +26,8 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
 - Email: hadisaasyed@gmail.com
 
 
-[![Hadisa Fatima Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=tokyonight&hide=issues&custom_title=My%20GitHub%20Stats)](https://github.com/your-username/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
