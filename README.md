@@ -7,7 +7,7 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
   - Pursuing my BE in Software Engineering.
   - Currently 'am on JS route of Front end Dev Journey.
     
-
+# Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=radical)](https://git.io/streak-stats)
 
 
@@ -29,7 +29,8 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
 [![Hadisa Fatima Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
+
 
 <!---
 hadisafatima/hadisafatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
