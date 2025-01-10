@@ -1,11 +1,12 @@
 <!---[![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)--->
 # Hii there, I'm Hadisa Fatima Syed! 
-I'm a Software Engineering student at Mehran university of Engineering and Jamshoro. My intersts lie majorly towards Front end Development and have been exploring my ways to develop sites which includes AI.  
+I'm a Software Engineering student at Mehran university of Engineering and Jamshoro. My intersts lie majorly towards Front end Development and have been exploring Python to set some roots of myself into Data Analytics.  
 
 
 # About Me!
   - Pursuing my BE in Software Engineering.
   - Currently 'am on JS route of Front end Dev Journey.
+  - Navigating Python.
     
 # Streak
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=radical&cache_seconds=86400)](https://git.io/streak-stats)--->
@@ -26,9 +27,11 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
 - Email: hadisaasyed@gmail.com
 
 
+#
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=tokyonight&hide=issues&custom_title=My%20GitHub%20Stats)](https://github.com/your-username/github-readme-stats)
 
-
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
 
