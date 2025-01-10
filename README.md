@@ -8,8 +8,7 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
   - Currently 'am on JS route of Front end Dev Journey.
     
 # Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=radical&cache_seconds=86400)](https://git.io/streak-stats)
 
 # Front End Projects so far
 - [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): An static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
