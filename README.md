@@ -22,12 +22,15 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
 - [My Portfolio Website: ](https://hadisafatima.github.io/My_Portfolio/) : My portfolio website containing all of the necessary information about me, my skill set and web projects.
 
   
-## Get in touch
-- LinkedIn: [Hadisa Fatima Syed](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
-- Email: hadisaasyed@gmail.com
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:hadisaasyed@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@hadisaasyed)
 
 
-#
+
+# 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadisafatima&show_icons=true&theme=tokyonight&hide=issues&custom_title=My%20GitHub%20Stats)](https://github.com/your-username/github-readme-stats)
 
