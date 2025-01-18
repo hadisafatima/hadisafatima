@@ -41,9 +41,6 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisafatima&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
 
-#
-
-![build status](https://img.shields.io/github/workflow/status/username/repository-name/build)
 
 
 <!---
