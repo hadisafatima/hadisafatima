@@ -1,4 +1,7 @@
 <!---[![Header](https://www.techspot.com/images2/news/bigimage/2019/10/2019-10-25-image-5.jpg)](https://github.com/hadisafatima)--->
+<p align="center">
+  <h1>👋 Hi, I'm John Doe</h1>
+</p>
 # Hii there, I'm Hadisa Fatima Syed! 
 I'm a Software Engineering student at Mehran university of Engineering and Jamshoro. My intersts lie majorly towards Front end Development and have been exploring Python to set some roots of myself into Data Analytics.  
 
