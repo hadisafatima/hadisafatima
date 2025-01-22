@@ -10,7 +10,9 @@ I'm a Software Engineering student at Mehran university of Engineering and Jamsh
   - Currently 'am on JS route of Front end Dev Journey.
   - Navigating Python.
     
+## My GitHub Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadisafatima)
 
 
 # Front End Projects so far
