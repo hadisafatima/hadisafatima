@@ -2,7 +2,7 @@
 <p align="center">
   <h1>👋 Hi, I'm Hadisa Fatima Syed</h1>
 </p>
-I'm a Software Engineering student at Mehran university of Engineering and Jamshoro. My intersts lie majorly towards Front end Development and have been exploring Python to set some roots into Data Analytics.  
+I'm a Software Engineering student at Mehran university of Engineering and Technology, Jamshoro. My intersts lie majorly towards Front end Development and I've been exploring Python as 'am looking forwrd to set some roots into Data Analytics.  
 
 
 # About Me!
