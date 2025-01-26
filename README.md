@@ -14,6 +14,11 @@ I'm a Software Engineering student at Mehran university of Engineering and Techn
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadisafatima)
 
+## Activity Graph
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisafatima&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 # Front End Projects so far
 - [Quran and Sunnah website: ](https://hadisafatima.github.io/Wisdoms-of-Holy-Quran-and-Sunnahs/): An static website containing Benefits of reciting Quranic chapters and some of the Holy Prophet's sunnah.
