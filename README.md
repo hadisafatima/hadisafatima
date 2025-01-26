@@ -16,7 +16,8 @@ I'm a Software Engineering student at Mehran university of Engineering and Techn
 
 ## Activity Graph
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisafatima&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisafatima&theme=dracula&bg_color=1a1b27&color=f8f8f2&line=bd93f9&point=ff79c6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
