@@ -12,9 +12,7 @@ I'm a Software Engineering student at Mehran university of Engineering and Techn
     
 ## My GitHub Streak
 
-https://streak-stats.demolab.com/?user=hadisafatima&theme=dark
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=dark)](https://git.io/streak-stats)
 
 
 ## Activity Graph
