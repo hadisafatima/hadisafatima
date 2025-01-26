@@ -12,7 +12,7 @@ I'm a Software Engineering student at Mehran university of Engineering and Techn
     
 ## My GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadisafatima)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Activity Graph
