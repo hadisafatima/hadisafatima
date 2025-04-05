@@ -2,22 +2,21 @@
 <p align="center">
   <h1>👋 Hi, I'm Hadisa Fatima Syed</h1>
 </p>
-I'm a Software Engineering student at Mehran university of Engineering and Technology, Jamshoro. My intersts lie majorly towards Front end Development and I've been exploring Python as 'am looking forwrd to set some roots into Data Analytics.  
+I'm a Software Engineering student at Mehran university of Engineering and Technology, Jamshoro. My intersts lie in Front end Development plus I've been exploring Python and its libraries as 'am looking forwrd to get into the landscape of Data Analysts.
 
 
 # About Me!
-  - Pursuing my BE in Software Engineering.
-  - Currently 'am on JS route of Front end Dev Journey.
-  - Navigating Python.
+  - A Student, navigating life and trying to make ways.
+  - Fun Fact, Can't spend a day without playing Free Fire.
     
 ## My GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hadisafatima&theme=dark)](https://git.io/streak-stats)
 
 
-## Activity Graph
+<!---## Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisafatima&theme=dracula&bg_color=1a1b27&color=f8f8f2&line=bd93f9&point=ff79c6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisafatima&theme=dracula&bg_color=1a1b27&color=f8f8f2&line=bd93f9&point=ff79c6)](https://github.com/ashutosh00710/github-readme-activity-graph)--->
 
 
 
