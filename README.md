@@ -23,7 +23,7 @@ Actively seeking internships, freelance roles, or part-time opportunities in fro
 
 🌱 Let’s Connect:
 If you’re working in tech, building something cool, or simply love to share knowledge. I’d love to connect! Open to collaboration, mentorship, and growth opportunities.
-[![LinkedIn](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)
 
 
 🤌 Fun Fact, Can't spend a day without playing ✨Free Fire✨
