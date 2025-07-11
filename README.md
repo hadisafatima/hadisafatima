@@ -6,8 +6,27 @@ I'm a Software Engineering student at Mehran university of Engineering and Techn
 
 
 # About Me!
-  - A Student, navigating life and trying to make ways.
-  - Fun Fact, Can't spend a day without playing Free Fire.
+
+### 💻 Technical Skills & Interests:
+My core lies in front-end development, with hands-on experience in HTML5, CSS3, SASS, Bootstrap, and Tailwind CSS, crafting clean and responsive UIs. I also have a solid foundation in Java and am growing comfortable with JavaScript and Python.
+
+Lately, I’ve developed interest in the field of Data Analytics, with a focus on data cleaning, exploration, and visualisation. 
+My current tech stack includes:
+Python (Pandas, NumPy, Matplotlib), Excel, SQL, Tableau,  Power BI, and Google Colab Notebooks.
+I'm passionate about uncovering insights and presenting them visually to solve real-world problems.
+
+### ☁️ Community Involvement:
+I’ve been an active part of multiple on-campus tech communities, and I'm currently involved in the AWS Cloud Club.
+
+### 🚀 What I’m Looking For:
+Actively seeking internships, freelance roles, or part-time opportunities in front-end development or data analytics to apply my skills in real-world projects, learn from professionals, and contribute to impactful work.
+
+🌱 Let’s Connect:
+If you’re working in tech, building something cool, or simply love to share knowledge. I’d love to connect! Open to collaboration, mentorship, and growth opportunities.
+[![LinkedIn](https://www.linkedin.com/in/hadisa-fatima-syed-85537a266/)]
+
+
+🤌 Fun Fact, Can't spend a day without playing ✨Free Fire✨
     
 ## My GitHub Streak
 
