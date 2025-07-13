@@ -47,7 +47,7 @@ If you’re working in tech, building something cool, or simply love to share kn
 - [TwitterX_Cloned_Web: ](https://hadisafatima.github.io/TwitterX_Clone/) : Client Side Cloned TwitterX website.
 - [Nove_Genius_Summer_Intership_Task_1: ](https://hadisafatima.github.io/NovaGenius_InternshipTask_1/) : First Internship's first task, and this helped get good grip on bootstrap and SASS.
 - [Nove_Genius_Summer_Intership_Task_2: ](https://hadisafatima.github.io/Nova-Genius-Internship-Task-2/) : First Internship's second task, this helped in learning and applying DOM manipulation, changing styles and applying different transform values on clicks on different buttons.
-- [My Portfolio Website: ](https://hadisafatima.github.io/Portfolio/) : My portfolio website my skill set and both Front-End and Data Analysis Projects.
+- [My Portfolio Website: ](https://hadisafatima.github.io/Portfolio/) : My portfolio website showcasing my skill set and both Front-End and Data Analysis Projects.
 
   
 ## Connect with Me
